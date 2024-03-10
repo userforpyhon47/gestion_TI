@@ -29,6 +29,10 @@ Los siguientes son algunos de los hitos de la usta:
 ### 3. Monografía
 
 - Julian Amaya Consejo de estado. Infraestructura
-- 
+- Santiago Arias estudiante
+- Mauricio Miniso
+- Julieth Davivienda Arquitectura empresarial
+- Migración Colombia aplicativo de la entidad
+- Davivienda
 
 
